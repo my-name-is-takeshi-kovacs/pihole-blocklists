@@ -11,7 +11,7 @@ smartshare.lgtvsdp.com
 yumenetworks.com
 aic-ngfts.lge.com
 
-# LG regional (RUSSIA)
+# LG regional (RUS)
 ru.ad.lgsmartad.com
 ru.ibs.lgappstv.com
 ru.info.lgsmartad.com
