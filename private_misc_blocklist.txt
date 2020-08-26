@@ -4,5 +4,11 @@
 trace.svc.ui.com/
 
 
-#Smart TV trace and AD
+#Smart TV trace and AD hosts
 analytics.cn.ru
+data.videonow.ru
+public.advarkads.com
+statsb.nativeroll.tv
+tas-ru.toboads.com
+ad.videocontact.net
+a.republer.com
