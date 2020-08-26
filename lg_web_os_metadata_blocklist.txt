@@ -1,0 +1,26 @@
+# Version: 1.01 (26.08.2020)
+
+# LG main list
+ad.lgappstv.com
+ibis.lgappstv.com
+lgad.cjpowercast.com.edgesuite.net
+ngfts.lge.com
+smartclip.com
+smartclip.net
+smartshare.lgtvsdp.com
+yumenetworks.com
+aic-ngfts.lge.com
+
+# LG regional (RUSSIA)
+ru.ad.lgsmartad.com
+ru.ibs.lgappstv.com
+ru.info.lgsmartad.com
+ru.lgtvsdp.com
+ru.rdx2.lgtvsdp.com
+
+# LG regional (USA)
+us.ad.lgsmartad.com
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
+us.lgtvsdp.com
+us.rdx2.lgtvsdp.com
