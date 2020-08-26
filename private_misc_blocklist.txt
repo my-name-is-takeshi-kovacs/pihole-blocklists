@@ -8,7 +8,13 @@ trace.svc.ui.com/
 analytics.cn.ru
 data.videonow.ru
 public.advarkads.com
+statsa.nativeroll.tv
 statsb.nativeroll.tv
+cdn02.nativeroll.tv
 tas-ru.toboads.com
+cdn01.toboads.com
+cdn02.toboads.com
+cdn03.toboads.com
 ad.videocontact.net
 a.republer.com
+a.utraff.com
