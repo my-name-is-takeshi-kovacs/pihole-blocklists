@@ -1,7 +1,7 @@
 # Version: 1.02 (27.08.2020)
 
 # Ubiquiti trace metadata
-trace.svc.ui.com/
+trace.svc.ui.com
 
 #Smart TV trace and AD hosts
 analytics.cn.ru
