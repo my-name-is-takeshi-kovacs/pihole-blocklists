@@ -3,7 +3,6 @@
 # Ubiquiti trace metadata
 trace.svc.ui.com/
 
-
 #Smart TV trace and AD hosts
 analytics.cn.ru
 data.videonow.ru
