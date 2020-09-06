@@ -19,10 +19,15 @@ a.republer.com
 a.utraff.com
 ad-eu.p.otm-r.com
 ad-eu-02.p.otm-r.com
+ad-eu-04.p.otm-r.com
 ad-eu-05.p.otm-r.com
+ad-eu-06.p.otm-r.com
+ad-eu-10.p.otm-r.com
 ad-eu-11.p.otm-r.com
 ad-eu-12.p.otm-r.com
 ad-eu-13.p.otm-r.com
+ad-eu-16.p.otm-r.com
+ad-eu-17.p.otm-r.com
 ad-eu-19.p.otm-r.com
 ad-eu-20.p.otm-r.com
 exchange.buzzoola.com
